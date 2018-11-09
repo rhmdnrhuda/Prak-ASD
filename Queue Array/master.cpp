@@ -2,7 +2,7 @@
 using namespace std;
 
 #define Nil -1         /* Nil adalah queue dengan elemen kosong */
-#define MaxEl 10       /* MaxEl adalah ukuran maksimum table penampung */
+#define MaxEl 20       /* MaxEl adalah ukuran maksimum table penampung */
 
 typedef int infotype;
 typedef struct {
